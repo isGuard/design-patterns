@@ -3,6 +3,8 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/1-factory-method/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/1-factory-method/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2-abstract-factory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2-abstract-factory/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
