@@ -20,6 +20,7 @@
         <module>9-decorator</module>
         <module>10-facade</module>
         <module>11-flyweight</module>
+        <module>12-proxy</module>
     </modules>
 
     <properties>
